@@ -156,12 +156,12 @@
           <input type="password" id="clave" name="clave">
         </div>
 
-        <a class="olvido" href="view/Recuperar.php">forget password?</a>
+        <a class="olvido" href="Recuperar.php">forget password?</a>
 
         <button type="submit" class="btn-login">Login</button>
       </form>
 
-      <a class="crear" href="view/Registro.php">Create Account</a>
+      <a class="crear" href="Registro.php">Create Account</a>
 
     <?php endif; ?>
   </main>
