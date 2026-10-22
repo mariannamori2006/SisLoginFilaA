@@ -56,7 +56,7 @@
     }
 
     .subtitulo .morado { color: #8A0BD2; }
-    .subtitulo .gris   { color: #8A8F99; }
+.subtitulo .gris   { color: #8A8F99; }
 
     /* Campos: solo línea inferior */
     .campo { margin-bottom: 26px; max-width: 280px; }
